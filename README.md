@@ -88,7 +88,6 @@ A configuração de segurança do servidor web, monitorada pelo Wazuh, respondeu
 ### 2. Status Operacional (Dashboard)
 *Visão geral do sistema operando com integridade após o incidente, demonstrando a estabilidade da infraestrutura Docker.*
 ![Dashboard Wazuh]<img width="1364" height="688" alt="Dashboard Wazuh 5 2 2026" src="https://github.com/user-attachments/assets/5b5ec6c3-07b6-4d9d-a134-a4454903c87f" />
-<img width="1364" height="688" alt="Dashboard Wazuh 5 2 2026" src="https://github.com/user-attachments/assets/5b5ec6c3-07b6-4d9d-a134-a4454903c87f" />
 
 
 ## 🚀 Conclusão
