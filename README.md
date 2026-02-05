@@ -36,7 +36,6 @@ The web server's security configuration, monitored by Wazuh, responded correctly
 ### 1. Detection and Blocking Logs
 *The log proves that the system identified the attempt to access critical files and denied access (Status 401).*
 ![Wazuh Logs]<img width="1366" height="768" alt="Real intrusion log to my VPS 05 02 2026" src="https://github.com/user-attachments/assets/8c99e1ed-1517-4b89-be5a-026b8124c6fd" />
-<img width="1366" height="768" alt="Real intrusion log to my VPS 05 02 2026" src="https://github.com/user-attachments/assets/8c99e1ed-1517-4b89-be5a-026b8124c6fd" />
 
 ### 2. Operational Status (Dashboard)
 *Overview of the system operating with integrity after the incident, demonstrating the stability of the Docker infrastructure.*
