@@ -40,7 +40,6 @@ The web server's security configuration, monitored by Wazuh, responded correctly
 ### 2. Operational Status (Dashboard)
 *Overview of the system operating with integrity after the incident, demonstrating the stability of the Docker infrastructure.*
 <img width="1364" height="688" alt="Dashboard Wazuh 5 2 2026" src="https://github.com/user-attachments/assets/5b5ec6c3-07b6-4d9d-a134-a4454903c87f" />
-<img width="1364" height="688" alt="Dashboard Wazuh 5 2 2026" src="https://github.com/user-attachments/assets/5b5ec6c3-07b6-4d9d-a134-a4454903c87f" />
 
 ## 🚀 Conclusion
 The implementation demonstrated the effectiveness of continuous monitoring. The visibility provided by Wazuh allowed us to validate that the firewall rules and web server configurations are effective against modern automated threats.
@@ -82,8 +81,6 @@ A configuração de segurança do servidor web, monitorada pelo Wazuh, respondeu
 ### 1. Logs de Detecção e Bloqueio
 *O log comprova que o sistema identificou a tentativa de acesso a arquivos críticos e negou o acesso (Status 401).*
 ![Logs do Wazuh]<img width="1366" height="768" alt="log de invasão real à minha VPS 05 02 2026" src="https://github.com/user-attachments/assets/8c99e1ed-1517-4b89-be5a-026b8124c6fd" />
-<img width="1366" height="768" alt="log de invasão real à minha VPS 05 02 2026" src="https://github.com/user-attachments/assets/8c99e1ed-1517-4b89-be5a-026b8124c6fd" />
-
 
 ### 2. Status Operacional (Dashboard)
 *Visão geral do sistema operando com integridade após o incidente, demonstrando a estabilidade da infraestrutura Docker.*
